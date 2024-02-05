@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background-color: grey;
+    text-align: center;
+}
+h1 {
+    color: darkgreen;
+}
+p {
+    color:hotpink;
+}
